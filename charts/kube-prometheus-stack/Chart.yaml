@@ -16,7 +16,7 @@ maintainers:
     email: miroslav.hadzhiev@gmail.com
 name: kube-prometheus-stack
 sources:
-  - https://github.com/prometheus-community/helm-charts
+  - https://github.com/manikanta2109/helm-charts
   - https://github.com/prometheus-operator/kube-prometheus
 version: 19.0.2
 appVersion: 0.50.0
@@ -30,7 +30,7 @@ annotations:
   "artifacthub.io/operator": "true"
   "artifacthub.io/links": |
     - name: Chart Source
-      url: https://github.com/prometheus-community/helm-charts
+      url: https://github.com/manikanta2109/helm-charts
     - name: Upstream Project
       url: https://github.com/prometheus-operator/kube-prometheus
 
